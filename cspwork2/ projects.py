@@ -1,3 +1,3 @@
-name = input("name now: ")
+name = input("name please: ")
 
 print("hello",name)
